@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Titans** · Team ID `VTU-QFF-HC-0138` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Titans)
+[⬆ Back to Top](#quantum-titans)
 
 </div>
