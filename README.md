@@ -21,7 +21,7 @@
 
 </div>
 ---
-## Team Members (GitHub IDs)
+ Team Members (GitHub IDs)
 
 | Name | GitHub Username | Role |
 |---|---|---|
