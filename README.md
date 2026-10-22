@@ -20,9 +20,13 @@
 | **Event** | VTU-QFF Hackathon — VTU-Qiskit Fall Fest 2026 |
 
 </div>
-
 ---
+## Team Members (GitHub IDs)
 
+| Name | GitHub Username | Role |
+|---|---|---|
+| Abinaya S | [@Abinaya959](https://github.com/Abinaya959) | Team Lead |
+| Afrin U | [@Afrin25007](https://github.com/Afrin25007) | Developer |
 # QubitSense AI: Quantum Kernel Intelligence Lab
 
 **Team:** Quantum Titans  
