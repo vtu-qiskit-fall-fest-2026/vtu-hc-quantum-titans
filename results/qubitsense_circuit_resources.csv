@@ -1,0 +1,3 @@
+feature_map,qubits,depth_decomposed,gate_count_decomposed,gate_types
+ZZ reps=1,2,5,7,"cx:2, u:5"
+ZZ reps=2,2,10,14,"cx:4, u:10"
