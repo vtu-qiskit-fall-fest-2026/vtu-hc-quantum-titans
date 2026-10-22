@@ -20,7 +20,6 @@
 | **Event** | VTU-QFF Hackathon — VTU-Qiskit Fall Fest 2026 |
 
 </div>
----
  Team Members (GitHub IDs)
 
 | Name | GitHub Username | Role |
