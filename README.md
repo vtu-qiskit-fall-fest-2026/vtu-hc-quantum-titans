@@ -1,37 +1,30 @@
-<div align="center">
-
 # Quantum Titans
 
-**VTU-QFF-HC-0138** &nbsp;|&nbsp; Tier: **Online**
+**Team ID:** VTU-QFF-HC-0138 | **Tier:** Online
 
-</div>
+| Detail | Information |
+|---|---|
+| Team | Quantum Titans |
+| Team ID | VTU-QFF-HC-0138 |
+| Tier | Online |
+| Repository | [vtu-hc-quantum-titans](https://github.com/vtu-qiskit-fall-fest-2026/vtu-hc-quantum-titans) |
+| Organisation | [vtu-qiskit-fall-fest-2026](https://github.com/vtu-qiskit-fall-fest-2026) |
+| Event | VTU-QFF Hackathon – VTU Qiskit Fall Fest 2026 |
 
----
-
-<div align="center">
-
-| | |
-| :--- | :--- |
-| **Team** | Quantum Titans |
-| **Team ID** | VTU-QFF-HC-0138 |
-| **Tier** | Online |
-| **Repository** | [vtu-hc-quantum-titans](https://github.com/vtu-qiskit-fall-fest-2026/vtu-hc-quantum-titans.git) |
-| **Organisation** | [vtu-qiskit-fall-fest-2026](https://github.com/vtu-qiskit-fall-fest-2026) |
-| **Event** | VTU-QFF Hackathon — VTU-Qiskit Fall Fest 2026 |
-
-</div>
- Team Members (GitHub IDs)
+## Team Members (GitHub IDs)
 
 | Name | GitHub Username | Role |
 |---|---|---|
 | Abinaya S | [@Abinaya959](https://github.com/Abinaya959) | Team Lead |
 | Afrin U | [@Afrin25007](https://github.com/Afrin25007) | Developer |
+
+---
+
 # QubitSense AI: Quantum Kernel Intelligence Lab
 
-**Team:** Quantum Titans  
-**Team ID:** VTU-QFF-HC-0138  
 **Track:** Track 4 – Quantum + AI & ML  
-**Participation:** Online
+**Team:** Quantum Titans  
+**Team ID:** VTU-QFF-HC-0138
 
 ## 1. Problem Statement
 
@@ -45,22 +38,22 @@ The framework presents experimental evidence to help users understand the trade-
 
 ## 3. Key Features
 
-- Classical SVC versus quantum-kernel QSVC comparison
+- Classical RBF-kernel SVC versus quantum-kernel QSVC comparison
 - Repeated experiments using multiple random seeds
 - Accuracy, macro precision, macro recall, and macro F1-score
 - Robustness evaluation using controlled test-input perturbations
-- Quantum circuit qubit count, depth, and gate count
+- Quantum circuit resource analysis, including qubit count, circuit depth, and gate count
 - Runtime measurements and evidence-based model comparison
 
 ## 4. Methodology
 
 1. Load and preprocess the Iris dataset.
-2. Scale features and reduce the feature space to two principal components.
+2. Scale the features and reduce the feature space to two principal components.
 3. Train a classical RBF-kernel SVC.
 4. Train quantum-kernel QSVC models using Qiskit feature maps.
 5. Evaluate predictive performance across repeated train/test splits.
-6. compare clean and perturbed test-input performance.
-7. Summarize measured performance and resource trade-offs.
+6. Compare performance on clean and perturbed test inputs.
+7. Summarize measured performance and computational trade-offs.
 
 ## 5. Technology Stack
 
@@ -72,23 +65,25 @@ The framework presents experimental evidence to help users understand the trade-
 - Matplotlib
 - Jupyter Notebook
 
-## 6. Results
+## 6. Experimental Results
 
-Results will be reported from the experiments actually executed by the team. See the CSV result files and presentation for measured metrics.
+The results section will report the metrics obtained from the experiments actually executed by the team. Performance claims and conclusions should be supported by the generated result files.
 
 ## 7. Project Files
 
 - `notebooks/QubitSense_AI_Upgrade.ipynb` – experimental notebook
 - `src/QubitSense_AI_Upgrade.py` – Python implementation
-- `results/` – measured CSV results
+- `results/` – experimental CSV files
 - `docs/QubitSense_AI_Hackathon_PPT.pptx` – project presentation
 - `requirements.txt` – Python dependencies
 
+*Ensure these paths match the files uploaded to the repository.*
+
 ## 8. Presentation and Demo
 
-**Project PPT:** `docs/QubitSense_AI_Hackathon_PPT.pptx`
+**Project Presentation:** `docs/QubitSense_AI_Hackathon_PPT.pptx`
 
-**Public YouTube Demo:** 'https://youtu.be/_tjXQqSoTt4?si=2Hm2OO28Hktt1NYL'
+**YouTube Demo:** [Watch the QubitSense AI demonstration](https://youtu.be/_tjXQqSoTt4)
 
 ## 9. Reproducibility
 
