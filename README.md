@@ -88,7 +88,7 @@ Results will be reported from the experiments actually executed by the team. See
 
 **Project PPT:** `docs/QubitSense_AI_Hackathon_PPT.pptx`
 
-**Public YouTube Demo:** ADD_YOUR_PUBLIC_YOUTUBE_LINK_HERE
+**Public YouTube Demo:** 'https://youtu.be/_tjXQqSoTt4?si=2Hm2OO28Hktt1NYL'
 
 ## 9. Reproducibility
 
